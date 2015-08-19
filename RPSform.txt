@@ -1,0 +1,37 @@
+================================================================================
+Submit requests via eHelp webpage                            RPS Release Request
+================================================================================
+
+Submitted By:    <SUBMITTER_NAME>                             Ext: 3328
+CC:              <CC_ADDRESSEES>
+Rel Label Desc:  <RELEASE_DESC>
+Special Inst:
+
+================================= Environment ==================================
+
+Appropriate Environment(s)   Select Appropriate Box(s)   For RPS Only
+--------------------------   -------------------------   ------------
+[X] Linux Intel              [X] XX   [ ] Create CD      Release Volume:
+[X] Linux Intel64            [ ] IR   [ ] Create CD      Define:
+                             [ ] FT   [ ] Create CD      Merge:
+												
+================================= Includes =====================================
+
+
+
+         Vsn      Apply To                       Vsn      Apply To
+
+         ------   --------                       ---      -------- 
+
+	[X] PT   PT834  PT            
+
+================================= Projects =====================================
+
+Project   Import     Unix Directory           Hide   Cont   Required Projects
+-------   ------     --------------           ----   ----   -----------------
+<RELEASE_DESC>    [ ] None   /rpsimport1/app/<RELEASE_DESC>   N      N       
+          [ ] CORA                                            
+          [X] UNIX                                           
+                                                            
+================================================================================
+                                                             
